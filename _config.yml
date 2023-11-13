@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vahid Hajihashemi"
   avatar           : "profile.png"
-  bio              : "PhD student in Informatics Engineering at FEUP, Faculdade de Engenharia da Universidade do Porto."
+  bio              : style="PhD student in Informatics Engineering at FEUP, Faculdade de Engenharia da Universidade do Porto.: justify;"
   location         : "Porto, Portugal."
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
