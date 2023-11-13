@@ -83,10 +83,8 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : >
-    PhD student in Informatics Engineering, FEUP, Universidade do Porto.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Duis euismod accumsan orci, ac hendrerit sem aliquet ac.
-  location         : "Location"
+    "PhD student in Informatics Engineering, FEUP, Universidade do Porto."
+  location         : "Porto, Portugal."
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
