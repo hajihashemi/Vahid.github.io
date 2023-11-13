@@ -56,12 +56,12 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-Twitter                :
-username               :&twitter
-facebook               :
-username               :
-app_id                 :
-publisher              :
+twitter:
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vahid Hajihashemi"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "PhD student in Informatics Engineering at FEUP, Faculdade de Engenharia da Universidade do Porto."
-  location         : "Porto, Portugal."
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=nBf4vKUAAAAJ&hl=en"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/hajihashemi"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-0842-8250"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  Twitter          : "replacethistwitterhandle"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
