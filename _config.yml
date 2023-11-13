@@ -58,7 +58,7 @@ yandex_site_verification :
 # Social Sharing
 Twitter:
   username               :
-facebook:
+  facebook               :
   username               :
   app_id                 :
   publisher              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  Twitter          : "https://twitter.com/vahidhajhashemi?lang=gl"
+  Twitter          : "https://twitter.com/vahidhajhashemi"
   vine             :
   weibo            :
   xing             :
