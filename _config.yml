@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : >
+    PhD student in Informatics Engineering, FEUP, Universidade do Porto.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Duis euismod accumsan orci, ac hendrerit sem aliquet ac.
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
