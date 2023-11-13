@@ -80,10 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Vahid Hajihashemi"
   avatar           : "profile.png"
-  bio              : >
-    "PhD student in Informatics Engineering, FEUP, Universidade do Porto."
+  bio              : "PhD student in Informatics Engineering, FEUP, Universidade do Porto."
   location         : "Porto, Portugal."
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
